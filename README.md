@@ -53,16 +53,27 @@ print(f"Variance is : {var}")
 ## Output:
   
   Enter the number of Samples : 5
+  
   Enter the probability of sample values 1: 0.4
+  
   Enter the probability of sample values 2: 0.3
+  
   Enter the probability of sample values 3: 0.2
+  
   Enter the probability of sample values 4: 0.05
+  
   Enter the probability of sample values 5: 0.05
+  
   Enter the length of the sample values 1: 2
+  
   Enter the length of the sample values 2: 3
+  
   Enter the length of the sample values 3: 3
+  
   Enter the length of the sample values 4: 4
+  
   Enter the length of the sample values 5: 4
+  
   ![image](https://github.com/user-attachments/assets/04223445-070f-4bf5-a4a9-c32b1173dc74)
 
 ## Results:
